@@ -1,6 +1,6 @@
 # StudyFlow
 
-StudyFlow is a responsive student study planner built with React, TypeScript, and Vite. Add coursework tasks, set due dates and priorities, and keep track of your progress in a clean dashboard. Tasks are stored locally in your browser.
+A responsive React + TypeScript student task and study planner for organizing coursework, study sessions, due dates, priorities, and academic progress. Tasks are stored locally in your browser.
 
 ## Features
 
